@@ -1,0 +1,4 @@
+[submodule "doyoungim999.github.io"]
+	path = doyoungim999.github.io
+	url = https://github.com/doyoungim999/doyoungim999.github.io.git
+	branch = main
