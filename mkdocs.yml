@@ -1,0 +1,14 @@
+site_name: Hybrid Multi cloud 
+site_url: https://doyoungim999.github.io
+site_author: Doyoung Im
+site_description: a short description of your website 
+
+nav:
+  - About : index.md
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+
